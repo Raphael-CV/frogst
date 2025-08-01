@@ -1,3 +1,4 @@
+// $ typst w examples/readme.typ --root . --open --format png
 // #import "@preview/frogst:1.0.0": nb-fr
 #import "../lib.typ": fr-nb
 #set page(width: 10cm, height: auto, margin: 0.7cm)
